@@ -19,4 +19,4 @@ GitFinder is a **web application** built with **JavaScript, HTML, and CSS** that
 ## 📌 Installation  
 1. Clone the repository:  
    ```bash
-   https://github.com/Snehalmoundekar/GitHub-Finder
+   https://github.com/Snehalmoundekar/github-finder
