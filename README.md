@@ -2,7 +2,7 @@
 
 GitFinder is a **web application** built with **JavaScript, HTML, and CSS** that allows users to search and explore **GitHub repositories**. It fetches data from the **GitHub API**, displays project details, and lets users **filter results by language**. It also features a **light/dark mode toggle** for a customizable user experience.  
 
-![GitFinder Preview](/GitFinder Preview.png)  
+![GitFinder Preview](/GitFinder Preview.png)
 
 ## 🚀 Features  
 - 🔹 **Search GitHub Repositories** by keyword  
